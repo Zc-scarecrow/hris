@@ -1,4 +1,14 @@
 <template>
+
+
+
+
+
+
+
+
+
+
     <div>
         <el-collapse-transition>
             <div v-show="show3">
